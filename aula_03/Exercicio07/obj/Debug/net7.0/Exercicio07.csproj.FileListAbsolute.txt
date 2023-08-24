@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\bin\Debug\net7.0\Exercicio07.exe
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\bin\Debug\net7.0\Exercicio07.deps.json
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\bin\Debug\net7.0\Exercicio07.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\bin\Debug\net7.0\Exercicio07.dll
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\bin\Debug\net7.0\Exercicio07.pdb
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\Exercicio07.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\Exercicio07.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\Exercicio07.dll
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\refint\Exercicio07.dll
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\Exercicio07.pdb
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\Exercicio07.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\aula_03\Exercicio07\obj\Debug\net7.0\ref\Exercicio07.dll
