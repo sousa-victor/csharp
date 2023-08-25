@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.exe
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.deps.json
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.dll
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\bin\Debug\net7.0\Laco_Do.pdb
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.dll
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\refint\Laco_Do.dll
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.pdb
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\Laco_Do.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\aula_04\Laco_Do\obj\Debug\net7.0\ref\Laco_Do.dll
