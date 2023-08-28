@@ -37,7 +37,7 @@
             {
                 for (int i = 0; i < 3; i++)
                 {
-                    if (i+j ==2)
+                    if (i+j == matriz.GetLength(0)-1)
                     {
                         Console.Write(matriz[i, j] + " ");
                         somaSecundaria += matriz[i, j];
