@@ -1,20 +1,18 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace Exercicio01_Dados
+﻿namespace Exercicio02_Dados
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Queue<string> clientes = new Queue<string>();
+            Stack<string> livros = new Stack<string>();
             int menu = 0;
 
             do
             {
                 Console.WriteLine("\n*********************************************************\n");
-                Console.WriteLine("         1 - Adicionar Cliente na Fila");
-                Console.WriteLine("         2 - Listar todos os Clientes na fila");
-                Console.WriteLine("         3 - Retirar Clientes da Fila");
+                Console.WriteLine("         1 - Adicionar Livro na pilha");
+                Console.WriteLine("         2 - Listar todos os Livros");
+                Console.WriteLine("         3 - Retirar Livro da pilha");
                 Console.WriteLine("         0 - Sair");
                 Console.WriteLine("\n*********************************************************");
 
@@ -28,37 +26,37 @@ namespace Exercicio01_Dados
 
                     case 1:
                         Console.Write("\nDigite o nome: \n");
-                        clientes.Enqueue(Console.ReadLine());
-                        Console.WriteLine("Fila:\n");
-                        foreach (string nome in clientes)
+                        livros.Push(Console.ReadLine());
+                        Console.WriteLine("Pilha:\n");
+                        foreach (string nome in livros)
                         {
                             Console.WriteLine(nome);
                         }
-                        Console.WriteLine("\nCliente adicionado!");
+                        Console.WriteLine("\nLivro adicionado!");
                         break;
 
                     case 2:
-                        Console.WriteLine("\nLista de Clientes na Fila:\n");
-                        foreach (string nome in clientes)
+                        Console.WriteLine("\nLista de Livros na Pilha::\n");
+                        foreach (string nome in livros)
                         {
                             Console.WriteLine(nome);
                         }
                         break;
 
                     case 3:
-                        if (clientes.Count() != 0)
+                        if (livros.Count() != 0)
                         {
-                            clientes.Dequeue();
+                            livros.Pop();
                             Console.WriteLine("Fila:\n");
-                            foreach (string nome in clientes)
+                            foreach (string nome in livros)
                             {
                                 Console.WriteLine(nome);
                             }
-                            Console.WriteLine("\nO Cliente foi chamado!");
+                            Console.WriteLine("\nUm Livro foi retirado da pilha!");
                         }
                         else
                         {
-                            Console.WriteLine("A Fila está vazia!");
+                            Console.WriteLine("A Pilha está vazia!");
                         }
                         break;
 
