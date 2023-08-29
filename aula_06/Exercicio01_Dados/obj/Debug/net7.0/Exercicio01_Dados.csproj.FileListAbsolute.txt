@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\bin\Debug\net7.0\Exercicio01_Dados.exe
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\bin\Debug\net7.0\Exercicio01_Dados.deps.json
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\bin\Debug\net7.0\Exercicio01_Dados.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\bin\Debug\net7.0\Exercicio01_Dados.dll
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\bin\Debug\net7.0\Exercicio01_Dados.pdb
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\Exercicio01_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\Exercicio01_Dados.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\Exercicio01_Dados.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\Exercicio01_Dados.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\Exercicio01_Dados.dll
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\refint\Exercicio01_Dados.dll
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\Exercicio01_Dados.pdb
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\Exercicio01_Dados.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Dados\obj\Debug\net7.0\ref\Exercicio01_Dados.dll

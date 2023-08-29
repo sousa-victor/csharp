@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\bin\Debug\net7.0\Exercicio01_Collections.exe
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\bin\Debug\net7.0\Exercicio01_Collections.deps.json
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\bin\Debug\net7.0\Exercicio01_Collections.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\bin\Debug\net7.0\Exercicio01_Collections.dll
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\bin\Debug\net7.0\Exercicio01_Collections.pdb
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\Exercicio01_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\Exercicio01_Collections.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\Exercicio01_Collections.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\Exercicio01_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\Exercicio01_Collections.dll
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\refint\Exercicio01_Collections.dll
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\Exercicio01_Collections.pdb
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\Exercicio01_Collections.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\aula_06\Exercicio01_Collections\obj\Debug\net7.0\ref\Exercicio01_Collections.dll
